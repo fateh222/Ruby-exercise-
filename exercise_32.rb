@@ -24,9 +24,7 @@ end
 # also we can go through mixed lists too
 # note this is yet another style, exactly like above
 # but a different syntax (way to write it).
-change.each {|i| 
-	puts "I got #{i}" 
-}
+change.each {|i| puts "I got #{i}" }
 
 # we can also build lists, first start with an empty one
 elements = []

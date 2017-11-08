@@ -38,7 +38,7 @@ class Song
   end
 
   def sing_me_a_song()
-    @lyrics.each {|line| puts line }
+    @	.each {|line| puts line }
   end
 end
 
